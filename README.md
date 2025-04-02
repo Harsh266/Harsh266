@@ -2,7 +2,6 @@
 
 I’m a B.Sc IT student passionate about  UI/UX, and full-stack development. Currently exploring the MERN stack and working on projects involving system design, data management, and visual insights.
 
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning MERN Stack
 - 🔭 I’m currently working on DesignDeck
 
