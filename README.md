@@ -25,7 +25,7 @@
 
 <p align="center">
   <!-- Add/Remove icons as per your skills -->
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,github,vscode,php,SQL,mongodb" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,github,vscode,php,mongodb" alt="Tech Stack" />
 </p>
 
 ---
