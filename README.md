@@ -1,15 +1,13 @@
 <!-- Profile README for Harsh266/Harsh266 -->
 
-<!-- Banner -->
+<!-- Banner Image (Optional) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1ED9A4&height=200&section=header&text=Hi%20there!%20I'm%20Harsh%20👋%20%7C%20Developer%20💻%20%26%20Designer%20🎨&fontSize=30&fontColor=ffffff&fontAlign=50" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20there!%20I'm%20Harsh%20👋&fontSize=35&fontAlign=50&fontColor=ffffff" alt="header"/>
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1ED9A4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;MERN+Stack+Developer+💻+%7C+UI+Designer+🎨;Passionate+about+AI+and+Automation+🤖;Currently+Exploring+Data+Science+📊;Let%27s+Collaborate+and+Build+Something+Awesome!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Always+learning+something+new;Passionate+about+Technology+💻;Let's+connect+and+collaborate!&center=true&width=500&height=50" />
 </p>
-
 ---
 
 ## 🙋‍♂️ About Me
