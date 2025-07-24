@@ -14,7 +14,7 @@
 
 - 👋 Hi, I’m **Harsh**!
 - 🚀 I love building cool projects, automating tasks, and exploring new technologies.
-- 🌱 Currently learning Mern Stack.
+- 🌱 Currently learning Data Science.
 - 🛠️ Experienced with Javascript.
 - 🎯 Fun fact: I believe every line of code can make a difference.
 
