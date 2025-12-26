@@ -1,16 +1,44 @@
-## Hi there 👋
+<!-- Profile README for Harsh266/Harsh266 -->
 
-<!--
-**Harsh266/Harsh266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Banner Image (Optional) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20there!%20I'm%20Harsh%20👋&fontSize=35&fontAlign=50&fontColor=ffffff" alt="header"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Always+learning+something+new;Passionate+about+Technology+💻;Let's+connect+and+collaborate!&center=true&width=500&height=50" />
+</p>
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ About Me
+
+- 👋 Hi, I’m **Harsh**!
+- 🚀 I love building cool projects, automating tasks, and exploring new technologies.
+- 🌱 Currently learning Data Science.
+- 🛠️ Experienced with Javascript.
+- 🎯 Fun fact: I believe every line of code can make a difference.
+
+---
+
+## 🔧 Tech Stack
+
+<p align="center">
+  <!-- Add/Remove icons as per your skills -->
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,expressjs,git,github,vscode,php,mongodb" alt="Tech Stack" />
+</p>
+
+---
+
+---
+
+## 📢 Quote of the Day
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harsh266&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
+<!-- Feel free to customize further! -->
