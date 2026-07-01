@@ -1,73 +1,91 @@
-<div align="center">
+<!-- ========================================================= -->
+<!--                  HARSH VEKARIYA                           -->
+<!-- ========================================================= -->
 
-# Harsh Vekariya
-
-### Software Engineer • Full Stack Developer • Data Science
-
-Building scalable software, cloud applications and modern digital products.
-
-<p>
-<a href="https://www.harshvekariya.in">Portfolio</a> •
-<a href="https://www.linkedin.com/in/harsh-vekariya-8a89b2359">LinkedIn</a> •
-<a href="mailto:harshvekriya441@gmail.com">Email</a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harsh266/Harsh266/main/assets/banner.png" width="100%" alt="Harsh Vekariya Banner"/>
 </p>
 
-</div>
+<h1 align="center">Harsh Vekariya</h1>
+
+<p align="center">
+Software Engineer • Full Stack Developer • Data Science
+</p>
+
+<p align="center">
+Building scalable software, cloud applications and modern digital experiences.
+</p>
+
+<p align="center">
+<a href="https://www.harshvekariya.in"><strong>Portfolio</strong></a> •
+<a href="https://www.linkedin.com/in/harsh-vekariya-8a89b2359"><strong>LinkedIn</strong></a> •
+<a href="mailto:harshvekriya441@gmail.com"><strong>Email</strong></a>
+</p>
 
 ---
 
-## About
+# About
 
-Software developer with a strong interest in building scalable applications using modern technologies.
+I'm a software developer passionate about building scalable web applications and solving real-world problems with clean, maintainable code.
 
-- 💼 Lead Full Stack Developer Intern at **BIM Arcavion Private Limited**
-- 🎓 M.Sc. Information Technology
-- 📍 Gujarat, India
-- 💡 Interested in Software Engineering, Cloud Computing, AI and Data Analytics
-- 🌱 Continuously learning System Design and scalable architecture
+Currently working as a **Lead Full Stack Developer Intern** at **BIM Arcavion Private Limited**.
+
+I'm pursuing a **Master of Science in Information Technology**, specializing in **Data Science** while continuously expanding my expertise in modern software engineering.
+
+### Current Interests
+
+- Full Stack Development
+- System Design
+- Cloud Computing
+- Artificial Intelligence
+- Data Analytics
+- Software Architecture
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,react,nextjs,nodejs,express,firebase,mongodb,mysql,tailwind,git,github,vscode,figma,postman,linux&perline=9"/>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma"/>
 
 </p>
 
 ---
 
-## Experience
+# Experience
 
-### Lead Full Stack Developer Intern
+## Lead Full Stack Developer Intern
 
 **BIM Arcavion Private Limited**
 
-- Designing scalable frontend and backend architectures
-- Building enterprise web applications
-- Implementing authentication and cloud infrastructure
-- Developing REST APIs and modern user interfaces
-- Writing clean, maintainable and production-ready code
+- Building enterprise-grade software solutions
+- Designing scalable frontend and backend systems
+- Developing secure authentication workflows
+- Building REST APIs
+- Working with Firebase Cloud Services
+- Improving application performance
+- Collaborating in Agile development environments
 
 ---
 
-## Currently Working On
-
-- Enterprise Software Development
-- MERN Stack Applications
-- Next.js & React
-- Firebase & Cloud Services
-- AI-powered Applications
-- System Design
-
----
-
-## GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harsh266&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harsh266&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=Harsh266&theme=github-dark&hide_border=true"/>
 
@@ -75,13 +93,13 @@ Software developer with a strong interest in building scalable applications usin
 
 <p align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh266&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh266&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-## Contribution Graph
+# Contribution Graph
 
 <p align="center">
 
@@ -91,11 +109,45 @@ Software developer with a strong interest in building scalable applications usin
 
 ---
 
-## GitHub Trophies
+# GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Harsh266&theme=darkhub&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Harsh266&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# Current Focus
+
+```txt
+▸ Enterprise Software Development
+▸ MERN Stack
+▸ React & Next.js
+▸ Firebase
+▸ Cloud Computing
+▸ AI Integration
+▸ Data Analytics
+```
+
+---
+
+# Connect
+
+<p align="center">
+
+<a href="https://www.harshvekariya.in">
+<img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/harsh-vekariya-8a89b2359">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:harshvekriya441@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
@@ -103,6 +155,6 @@ Software developer with a strong interest in building scalable applications usin
 
 <div align="center">
 
-*"Code with purpose. Build with quality."*
+### "Building reliable software with clean architecture and modern technologies."
 
 </div>
