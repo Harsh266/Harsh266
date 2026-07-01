@@ -4,7 +4,7 @@
 
 ### Full Stack Developer • Data Science Student • Software Engineer
 
-Building scalable web applications, cloud solutions and modern digital experiences.
+Building scalable web, app and software applications, cloud solutions and modern digital experiences.
 
 [Portfolio](https://www.harshvekariya.in) •
 [LinkedIn](https://www.linkedin.com/in/harsh-vekariya-8a89b2359) •
