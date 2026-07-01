@@ -20,7 +20,7 @@ I'm a Full Stack Developer passionate about building scalable software and solvi
 
 Currently working as a **Lead Full Stack Developer Intern** at **BIM Arcavion Private Limited**, where I contribute to enterprise software development, system architecture, and modern web applications.
 
-Alongside my professional work, I'm pursuing a **Master of Science in Information Technology** with a specialization in **Data Science and Software and Full Stack Development**.
+Alongside my professional work, I'm pursuing a **Master of Science in Information Technology** with a specialization in **Data Science, Software Development and Full Stack Development**.
 
 I enjoy writing clean code, designing intuitive user experiences, and continuously learning new technologies.
 
