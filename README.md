@@ -78,11 +78,6 @@ I'm pursuing an **M.Sc. in Information Technology**, specializing in **Data Scie
 ## GitHub Statistics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harsh266&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=6366F1&text_color=CBD5E1" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh266&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=Harsh266&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=6366F1&fire=60A5FA&currStreakLabel=CBD5E1" />
 </div>
 
