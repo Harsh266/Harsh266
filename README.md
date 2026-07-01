@@ -15,7 +15,8 @@ M.Sc. Information Technology · Data Science · Gujarat, India
 
 ## About
 
-I'm a full stack developer focused on building scalable, maintainable web applications and translating complex requirements into clean production code. I currently work as a **Lead Full Stack Developer Intern** at **BIM Arcavion Private Limited**, where I design and ship enterprise-grade software across the stack.
+I'm a full stack developer focused on building scalable, maintainable software applications and translating complex requirements into clean production code. I currently work as a **Lead Full Stack Developer Intern** at **BIM Arcavion Private Limited**, where I design and ship enterprise-grade software across the stack.
+I'm pursuing an **M.Sc. in Information Technology**, specializing in **Data Science, Full Stcak Development and Software Development**, and I spend most of my time at the intersection of full stack engineering, cloud infrastructure,system design & system architecture and applied AI — with a strong interest in system design and building software that holds up at scale.
 
 <br />
 
@@ -115,4 +116,3 @@ I'm a full stack developer focused on building scalable, maintainable web applic
   <sub>Building software that is scalable, maintainable, and meaningful.</sub>
 </div>
 
-I'm pursuing an **M.Sc. in Information Technology**, specializing in **Data Science**, and I spend most of my time at the intersection of full stack engineering, cloud infrastructure, and applied AI — with a strong interest in system design and building software that holds up at scale.
