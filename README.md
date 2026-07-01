@@ -86,10 +86,6 @@ I'm pursuing an **M.Sc. in Information Technology**, specializing in **Data Scie
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harsh266&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6" />
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Harsh266&style=flat-square&color=6366F1&label=Profile+Views" />
 </div>
 
