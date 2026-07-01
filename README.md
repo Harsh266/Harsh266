@@ -1,154 +1,113 @@
-<!-- ===========================
-     GitHub Profile README
-     Harsh266
-============================ -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:2563EB&text=Harsh%20Vekariya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Data%20Analytics%20|%20Software%20Engineer&descAlignY=60"/>
-</p>
+# Harsh Vekariya
 
-<h1 align="center">Hi 👋, I'm Harsh Vekariya</h1>
+### Full Stack Developer • Data Science Student • Software Engineer
 
-<p align="center">
-Full Stack Developer • MERN Stack • Firebase • Next.js • React • Data Analytics
-</p>
+Building scalable web applications, cloud solutions and modern digital experiences.
 
-<p align="center">
-Building scalable web applications with clean architecture, modern UI, and cloud technologies.
-</p>
+[Portfolio](https://www.harshvekariya.in) •
+[LinkedIn](https://www.linkedin.com/in/harsh-vekariya-8a89b2359) •
+[Email](mailto:harshvekriya441@gmail.com)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-- 💼 Lead Full Stack Developer Intern
-- 🎓 B.Sc. IT (Cloud & Application Development)
-- 📊 Specialization in Data Science
-- 🌱 Currently building ERP, CRM & BIM software solutions
-- ⚡ Passionate about scalable web applications
-- 🤝 Open to collaborating on Open Source & SaaS Projects
-- 📍 Gujarat, India
+I'm a Full Stack Developer passionate about building scalable software and solving real-world problems through technology.
+
+Currently working as a **Lead Full Stack Developer Intern** at **BIM Arcavion Private Limited**, where I contribute to enterprise software development, system architecture, and modern web applications.
+
+Alongside my professional work, I'm pursuing a **Master of Science in Information Technology** with a specialization in **Data Science and Software and Full Stack Development**.
+
+I enjoy writing clean code, designing intuitive user experiences, and continuously learning new technologies.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,html,css"/>
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,bootstrap"/>
-</p>
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql"/>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express)
+![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
-</p>
+Git • GitHub • VS Code • Postman • Figma • Linux
 
 ---
 
-## 📌 Current Focus
+## Experience
 
-- Enterprise ERP Development
-- CRM Systems
-- Firebase Architecture
-- React & Next.js
-- Data Visualization
-- AI Assisted Development
+### Lead Full Stack Developer Intern
 
----
+**BIM Arcavion Private Limited**
 
-## 🌟 Featured Projects
-
-### 🏢 BIM Arcavion ERP
-Enterprise Resource Planning platform with Role Based Authentication, HR Management, Employee Management and Firebase integration.
-
-**Tech Stack**
-React • Next.js • Firebase • Tailwind CSS • Firestore
+- Developing enterprise-grade web applications
+- Building scalable frontend and backend architectures
+- Designing secure authentication systems
+- Working with cloud technologies and Firebase
+- Collaborating on modern software development practices
 
 ---
 
-### 📊 Data Analytics Dashboard
-Interactive dashboards built using Power BI, Python and modern visualization libraries.
+## Current Focus
+
+- Full Stack Development
+- Software Architecture
+- Cloud Computing
+- AI Integration
+- Data Analytics
+- System Design
 
 ---
 
-### 🌐 Portfolio Website
-
-Modern responsive developer portfolio showcasing projects and skills.
-
----
-
-## 📈 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harsh266&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harsh266&show_icons=true&hide_border=true&theme=transparent"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh266&theme=github-dark&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=Harsh266&theme=transparent&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh266&theme=github-compact&hide_border=true"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh266&layout=compact&hide_border=true&theme=transparent"/>
 
 </p>
 
 ---
 
-## 💻 Most Used Languages
+## Philosophy
 
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh266&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+> Build software that is simple, scalable and meaningful.
 
 ---
 
-## 📫 Connect With Me
+<div align="center">
 
-<p align="left">
+Thanks for visiting.
 
-<a href="https://github.com/Harsh266">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:your-email@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://www.harshvekariya.in">
-<img src="https://skillicons.dev/icons?i=wordpress"/>
-</a>
-
-</p>
-
----
-
-## 💡 Philosophy
-
-> First, solve the problem. Then, write clean, maintainable code.
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Harsh266&style=for-the-badge&color=2563EB"/>
-</p>
+</div>
