@@ -1,160 +1,118 @@
-<!-- ========================================================= -->
-<!--                  HARSH VEKARIYA                           -->
-<!-- ========================================================= -->
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Harsh266/Harsh266/main/assets/banner.png" width="100%" alt="Harsh Vekariya Banner"/>
-</p>
+# Harsh Vekariya
 
-<h1 align="center">Harsh Vekariya</h1>
+**Lead Full Stack Developer Intern** @ BIM Arcavion Private Limited
+M.Sc. Information Technology · Data Science · Gujarat, India
 
-<p align="center">
-Software Engineer • Full Stack Developer • Data Science
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=googlechrome&logoColor=60A5FA)](https://www.harshvekariya.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/harsh-vekariya-8a89b2359)
+[![Email](https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:harshvekriya441@gmail.com)
 
-<p align="center">
-Building scalable software, cloud applications and modern digital experiences.
-</p>
+</div>
 
-<p align="center">
-<a href="https://www.harshvekariya.in"><strong>Portfolio</strong></a> •
-<a href="https://www.linkedin.com/in/harsh-vekariya-8a89b2359"><strong>LinkedIn</strong></a> •
-<a href="mailto:harshvekriya441@gmail.com"><strong>Email</strong></a>
-</p>
+<br />
 
----
+## About
 
-# About
+I'm a full stack developer focused on building scalable, maintainable web applications and translating complex requirements into clean production code. I currently work as a **Lead Full Stack Developer Intern** at **BIM Arcavion Private Limited**, where I design and ship enterprise-grade software across the stack.
 
-I'm a software developer passionate about building scalable web applications and solving real-world problems with clean, maintainable code.
+<br />
 
-Currently working as a **Lead Full Stack Developer Intern** at **BIM Arcavion Private Limited**.
+## Tech Stack
 
-I'm pursuing a **Master of Science in Information Technology**, specializing in **Data Science** while continuously expanding my expertise in modern software engineering.
+**Languages**
+<br />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java" />
 
-### Current Interests
+**Frontend**
+<br />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap" />
 
-- Full Stack Development
-- System Design
-- Cloud Computing
-- Artificial Intelligence
-- Data Analytics
-- Software Architecture
+**Backend**
+<br />
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
 
----
+**Database**
+<br />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 
-# Tech Stack
+**Cloud**
+<br />
+<img src="https://skillicons.dev/icons?i=firebase,gcp,vercel" />
 
-<p align="center">
+**Tools**
+<br />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma" />
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java"/>
+<br />
 
-<br>
+## Experience
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+**Lead Full Stack Developer Intern**
+`BIM Arcavion Private Limited`
 
-<br>
+- Architect and build enterprise-grade full stack applications end to end
+- Design scalable frontend interfaces and resilient backend services
+- Implement secure authentication and authorization workflows
+- Build and maintain REST APIs consumed across multiple client applications
+- Integrate and manage Firebase Cloud services for auth, storage, and data
+- Profile and optimize application performance across the stack
+- Collaborate cross-functionally within an Agile development process
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql"/>
+<br />
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma"/>
-
-</p>
-
----
-
-# Experience
-
-## Lead Full Stack Developer Intern
-
-**BIM Arcavion Private Limited**
-
-- Building enterprise-grade software solutions
-- Designing scalable frontend and backend systems
-- Developing secure authentication workflows
-- Building REST APIs
-- Working with Firebase Cloud Services
-- Improving application performance
-- Collaborating in Agile development environments
-
----
-
-# GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harsh266&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Harsh266&theme=github-dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh266&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh266&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Harsh266&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# Current Focus
+## Current Focus
 
 ```txt
-▸ Enterprise Software Development
-▸ MERN Stack
-▸ React & Next.js
-▸ Firebase
-▸ Cloud Computing
-▸ AI Integration
-▸ Data Analytics
+▸ Full Stack Development       ▸ Cloud Computing
+▸ Software Architecture        ▸ System Design
+▸ AI Integration                ▸ Performance Optimization
+▸ Clean Code & Best Practices
 ```
 
----
+<br />
 
-# Connect
+## GitHub Statistics
 
-<p align="center">
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harsh266&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=6366F1&text_color=CBD5E1" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh266&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1" />
+</div>
 
-<a href="https://www.harshvekariya.in">
-<img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Harsh266&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=6366F1&fire=60A5FA&currStreakLabel=CBD5E1" />
+</div>
 
-<a href="https://www.linkedin.com/in/harsh-vekariya-8a89b2359">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh266&theme=github-compact&hide_border=true&bg_color=0D1117&color=60A5FA&line=6366F1&point=F8FAFC" />
+</div>
 
-<a href="mailto:harshvekriya441@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harsh266&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6" />
+</div>
 
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harsh266&style=flat-square&color=6366F1&label=Profile+Views" />
+</div>
 
----
+<br />
+
+## Connect
 
 <div align="center">
 
-### "Building reliable software with clean architecture and modern technologies."
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=60A5FA)](https://www.harshvekariya.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/harsh-vekariya-8a89b2359)
+[![Email](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:harshvekriya441@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsh266)
 
 </div>
+
+<br />
+
+<div align="center">
+  <sub>Building software that is scalable, maintainable, and meaningful.</sub>
+</div>
+
+I'm pursuing an **M.Sc. in Information Technology**, specializing in **Data Science**, and I spend most of my time at the intersection of full stack engineering, cloud infrastructure, and applied AI — with a strong interest in system design and building software that holds up at scale.
