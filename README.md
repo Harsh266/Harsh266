@@ -1,51 +1,160 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0F172A"/>
-      <stop offset="100%" stop-color="#111827"/>
-    </linearGradient>
+<!-- ========================================================= -->
+<!--                  HARSH VEKARIYA                           -->
+<!-- ========================================================= -->
 
-    <linearGradient id="monoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#60A5FA"/>
-      <stop offset="100%" stop-color="#6366F1"/>
-    </linearGradient>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harsh266/Harsh266/main/assets/banner.png" width="100%" alt="Harsh Vekariya Banner"/>
+</p>
 
-    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#3B82F6"/>
-      <stop offset="100%" stop-color="#6366F1"/>
-    </linearGradient>
-  </defs>
+<h1 align="center">Harsh Vekariya</h1>
 
-  <rect x="0" y="0" width="1200" height="320" rx="18" fill="url(#bgGrad)"/>
-  <rect x="1" y="1" width="1198" height="318" rx="17" fill="none" stroke="#1E293B" stroke-width="2"/>
+<p align="center">
+Software Engineer • Full Stack Developer • Data Science
+</p>
 
-  <rect x="18" y="18" width="120" height="4" rx="2" fill="url(#accentLine)"/>
+<p align="center">
+Building scalable software, cloud applications and modern digital experiences.
+</p>
 
-  <circle cx="90" cy="120" r="40" fill="#0B1220" stroke="url(#monoGrad)" stroke-width="2"/>
-  <text x="90" y="130" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#60A5FA" text-anchor="middle">HV</text>
+<p align="center">
+<a href="https://www.harshvekariya.in"><strong>Portfolio</strong></a> •
+<a href="https://www.linkedin.com/in/harsh-vekariya-8a89b2359"><strong>LinkedIn</strong></a> •
+<a href="mailto:harshvekriya441@gmail.com"><strong>Email</strong></a>
+</p>
 
-  <text x="160" y="105" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#F8FAFC">Harsh Vekariya</text>
+---
 
-  <text x="160" y="138" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" fill="#94A3B8">Software Engineer · Full Stack Developer · Data Science</text>
+# About
 
-  <rect x="18" y="175" width="1164" height="1" fill="#1E293B"/>
+I'm a software developer passionate about building scalable web applications and solving real-world problems with clean, maintainable code.
 
-  <text x="18" y="210" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#CBD5E1">Building scalable products and clean, maintainable systems with modern web technologies.</text>
+Currently working as a **Lead Full Stack Developer Intern** at **BIM Arcavion Private Limited**.
 
-  <g font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="500">
-    <rect x="18" y="240" width="90" height="36" rx="18" fill="#1A2333" stroke="#334155" stroke-width="1"/>
-    <text x="63" y="263" text-anchor="middle" fill="#61DAFB">React</text>
+I'm pursuing a **Master of Science in Information Technology**, specializing in **Data Science** while continuously expanding my expertise in modern software engineering.
 
-    <rect x="120" y="240" width="100" height="36" rx="18" fill="#1A2333" stroke="#334155" stroke-width="1"/>
-    <text x="170" y="263" text-anchor="middle" fill="#F8FAFC">Next.js</text>
+### Current Interests
 
-    <rect x="232" y="240" width="106" height="36" rx="18" fill="#1A2333" stroke="#334155" stroke-width="1"/>
-    <text x="285" y="263" text-anchor="middle" fill="#8CC84B">Node.js</text>
+- Full Stack Development
+- System Design
+- Cloud Computing
+- Artificial Intelligence
+- Data Analytics
+- Software Architecture
 
-    <rect x="350" y="240" width="106" height="36" rx="18" fill="#1A2333" stroke="#334155" stroke-width="1"/>
-    <text x="403" y="263" text-anchor="middle" fill="#FFA000">Firebase</text>
+---
 
-    <rect x="468" y="240" width="128" height="36" rx="18" fill="#1A2333" stroke="#334155" stroke-width="1"/>
-    <text x="532" y="263" text-anchor="middle" fill="#3178C6">TypeScript</text>
-  </g>
-</svg>
+# Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma"/>
+
+</p>
+
+---
+
+# Experience
+
+## Lead Full Stack Developer Intern
+
+**BIM Arcavion Private Limited**
+
+- Building enterprise-grade software solutions
+- Designing scalable frontend and backend systems
+- Developing secure authentication workflows
+- Building REST APIs
+- Working with Firebase Cloud Services
+- Improving application performance
+- Collaborating in Agile development environments
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harsh266&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Harsh266&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh266&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh266&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Harsh266&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# Current Focus
+
+```txt
+▸ Enterprise Software Development
+▸ MERN Stack
+▸ React & Next.js
+▸ Firebase
+▸ Cloud Computing
+▸ AI Integration
+▸ Data Analytics
+```
+
+---
+
+# Connect
+
+<p align="center">
+
+<a href="https://www.harshvekariya.in">
+<img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/harsh-vekariya-8a89b2359">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:harshvekriya441@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Building reliable software with clean architecture and modern technologies."
+
+</div>
