@@ -2,7 +2,7 @@
 
 # Harsh Vekariya
 
-**Lead Full Stack Developer Intern** @ BIM Arcavion Private Limited
+**Founding Software Engineer** @ BIM Arcavion Private Limited
 M.Sc. Information Technology · Data Science · Gujarat, India
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=googlechrome&logoColor=60A5FA)](https://www.harshvekariya.in)
